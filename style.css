@@ -1,0 +1,15 @@
+body{
+background-size: cover;
+}
+.heading, #note{
+font-size: 23px;
+width:100%;
+margin:0px;
+color: white;
+}
+canvas{
+border:2px solid lightgray;
+border-radius:10px;
+margin-top:120px;
+box-shadow: 5px 5px 5px lightslategray;
+}
